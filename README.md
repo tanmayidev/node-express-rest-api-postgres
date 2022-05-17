@@ -1,4 +1,4 @@
-# node-express-rest-api-postgres
+# rest-api-using-node-express-postgresql
 
 Run the following command           
 `npm install`             
